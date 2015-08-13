@@ -1,8 +1,0 @@
-main1()
-<<<<<<< HEAD
-mian2(){
-  print("Hello, world");
-}
-=======
-main2()
->>>>>>> testing1
