@@ -1,2 +1,4 @@
 main1()
-mian2()
+mian2(){
+  print("Hello, world");
+}
