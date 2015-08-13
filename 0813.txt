@@ -1,2 +1,2 @@
 main1()
-mian2()
+main2()
